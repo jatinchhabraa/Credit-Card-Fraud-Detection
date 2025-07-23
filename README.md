@@ -54,9 +54,6 @@ A machine learning project to detect fraudulent credit card transactions using s
 
 ---
 
-## 📁 File Structure
----
-
 ## 🧑‍💻 Author
 
 👨‍🎓 Jatin Chhabra
@@ -67,6 +64,7 @@ A machine learning project to detect fraudulent credit card transactions using s
 ---
 
 ## 🧾 License
+
 This project is licensed under the MIT License.
 
 You are free to use, modify, and distribute this code, but please provide proper credit by linking back to this repository or mentioning the original author.
